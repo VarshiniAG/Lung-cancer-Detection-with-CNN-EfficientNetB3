@@ -1,6 +1,6 @@
-🫁 Lung Cancer Detection using CNN with EfficientNetB3
+#🫁 Lung Cancer Detection using CNN with EfficientNetB3
 
-A Deep Learning approach for early lung cancer diagnosis with Streamlit deployment via ngrok
+#A Deep Learning approach for early lung cancer diagnosis with Streamlit deployment via ngrok
 
 ⭐ Introduction
 
